@@ -1,0 +1,5 @@
+Flask
+Flask-SQLAlchemy
+marshmallow_sqlalchemy
+flask_apscheduler
+json
